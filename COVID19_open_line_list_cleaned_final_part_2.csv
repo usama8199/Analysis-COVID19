@@ -1,0 +1,129 @@
+city,province,country,wuhan(0)_not_wuhan(1),symptoms,lives_in_Wuhan,date_admission_hospital,outcome,date_death_or_discharge,Days
+Daxing District,Beijing,China,1,"fatigue, fever, headache",no,08-01-2020,discharge,24-01-2020,16
+Wushan County,Chongqing,China,1,"fatigue, fever",,15-01-2020,discharge,29-01-2020,14
+Fangchenggang City,Guangxi,China,1,discomfort,no,23-01-2020,discharge,28-01-2020,5
+Suihua City,Heilongjiang,China,1,None,,,death,23-01-2020,
+Hong Kong,Hong Kong,China,1,"cough, fever",yes,21-01-2020,death,,
+Xishuangbanna Prefecture,Yunnan,China,1,"systemic weakness, runny nose, fever",,22-01-2020,discharge,03-02-2020,12
+Wenzhou City,Zhejiang,China,1,fever,yes,17-01-2020,discharge,,
+Xining City,Qinghai,China,1,None,,23-01-2020,discharge,12-02-2020,20
+Paris,Ile-de-France,France,1,"chills, cough, fatigue, fever",yes,24-01-2020,discharge,12-02-2020,19
+Paris,Ile-de-France,France,1,"chills, conjunctivitis, cough, fever",yes,24-01-2020,discharge,12-02-2020,19
+Narita Airport,Tokyo,Japan,1,"fever, pneumonia, sore throat",yes,20-01-2020,discharge,,
+,Tokyo,Japan,1,"cough, fever, sore throat",no,10-01-2020,discharge,15-01-2020,5
+Kathmandu,,Nepal,1,"cough, fever, shortness of breath",yes,13-01-2020,discharge,17-01-2020,4
+Nha Trang,Khanh Hoa,Vietnam,1,None,no,22-01-2020,discharge,12-02-2020,21
+Nha Trang,Khanh Hoa,Vietnam,1,None,no,22-01-2020,discharge,28-01-2020,6
+,Johor,Malaysia,1,"cough, fever",yes,,discharge,08-02-2020,
+Bangkok,Bangkok Metropolis,Thailand,1,"cough, fever, myalgia",,28-01-2020,discharge,05-02-2020,8
+Toronto,Ontario,Canada,1,None,no,23-01-2020,discharge,31-01-2020,8
+Xining City,Qinghai,China,1,None,1,24-01-2020,discharge,05-02-2020,12
+Xining City,Qinghai,China,1,None,1,24-01-2020,discharge,05-02-2020,12
+Xining City,Qinghai,China,1,None,1,24-01-2020,discharge,05-02-2020,12
+"Chengguan District, Lanzhou City",Gansu,China,1,None,,25-01-2020,death,06-02-2020,12
+"Lixian County, Longnan City",Gansu,China,1,None,,,discharge,,0
+Starnberg,Bavaria,Germany,1,"chills, fever, myalgias, sore throat",no,,discharge,27-01-2020,
+Xishuangbanna Prefecture,Yunnan,China,1,"fever, sore throat",1,23-01-2020,discharge,07-02-2020,15
+,,United Arab Emirates,1,None,yes,25-01-2020,discharge,27-02-2020,33
+,,Malaysia,1,None,,,discharge,09-02-2020,
+Manila,National Capital Region (NCR),Philippines,1,None,yes,,discharge,08-02-2020,
+,Vinh Phuc,Vietnam,1,None,,,discharge,10-02-2020,
+,Vinh Phuc,Vietnam,1,None,,,discharge,10-02-2020,
+Thanh Hoa,Thanh Hoa,Vietnam,1,None,,,discharge,,0
+Rome,Lazio,Italy,1,None,,30-01-2020,discharge,26-02-2020,27
+Rome,Lazio,Italy,1,None,,30-01-2020,discharge,26-02-2020,27
+Jurong East,,Singapore,1,None,,30-01-2020,discharge,17-02-2020,18
+Changi Airport,,Singapore,1,None,,30-01-2020,discharge,17-02-2020,18
+La Gomera,Canary Islands,Spain,1,None,no,,discharge,,0
+Xining City,Qinghai,China,1,None,,26-01-2020,discharge,10-02-2020,15
+Ho Chi Minh City,,Vietnam,1,respiratory symptoms,no,31-01-2020,discharge,21-02-2020,21
+"Hotel Ton Dan Street, Nha Trang",Khanh Hoa,Vietnam,1,"cough, fever",no,27-01-2020,discharge,,
+Manila,National Capital Region (NCR),Philippines,1,"cough, sore throat",yes,,death,01-02-2020,
+National Centre for Infectious Diseases,,Singapore,1,None,,31-01-2020,discharge,27-02-2020,27
+"Xigu District, Lanzhou City",Gansu,China,1,fever,no,31-01-2020,death,09-02-2020,9
+"Lixian County, Longnan City",Gansu,China,1,None,no,26-01-2020,discharge,,
+"Maiji District, Tianshui City",Gansu,China,1,None,no,30-01-2020,discharge,14-02-2020,15
+Beijing,Beijing,China,1,None,,,discharge,02-02-2020,
+Beijing,Beijing,China,1,None,,,discharge,02-02-2021,
+Binh Xuyen District,Vinh Phuc,Vietnam,1,None,,31-01-2020,discharge,18-02-2020,18
+Xi'an City,Shaanxi,China,1,None,yes,25-01-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,,28-01-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,,29-01-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,,31-01-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,yes,31-01-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,,31-01-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,,28-01-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,,27-01-2020,stable,,
+Baoji City,Shaanxi,China,1,None,,30-01-2020,stable,,
+Tongchuan City,Shaanxi,China,1,None,,27-01-2020,stable,,
+Weinan City,Shaanxi,China,1,None,yes,30-01-2020,stable,,
+Ankang City,Shaanxi,China,1,lesions on chest radiographs,yes,,stable,,0
+Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,1,None,,,discharge,09-02-2020,
+"Minh Quang commune, Tam Dao District",Vinh Phuc,Vietnam,1,None,,30-01-2020,discharge,10-02-2020,11
+Singapore General Hospital,,Singapore,1,"fever, sore throat",,03-02-2020,discharge,22-02-2020,19
+National Centre for Infectious Diseases,,Singapore,1,None,,03-02-2020,discharge,15-02-2020,12
+"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,1,None,,,discharge,18-02-2020,
+Anqing City,Anhui,China,1,None,,,stable,,0
+"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,1,cough,,04-02-2020,discharge,20-02-2020,16
+Binh Xuyen District,Vinh Phuc,Vietnam,1,"cough, fever",,04-02-2020,discharge,20-02-2020,16
+Cebu City,Cebu,Philippines,1,None,,,discharge,30-01-2020,
+National Centre for Infectious Diseases,,Singapore,1,None,,06-02-2020,recovered,14-02-2020,8
+Xining City,Qinghai,China,1,None,,05-02-2020,discharge,13-02-2020,8
+Xining City,Qinghai,China,1,None,,04-02-2020,discharge,13-02-2020,9
+Xining City,Qinghai,China,1,None,,04-02-2020,discharge,18-02-2020,14
+Changi General Hospital,,Singapore,1,None,no,01-02-2020,discharge,17-02-2020,16
+Xi'an City,Shaanxi,China,1,None,,03-02-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,,29-01-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,,01-02-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,,01-02-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,,02-02-2020,stable,,
+Xi'an City,Shaanxi,China,1,None,,05-02-2020,stable,,
+Baoji City,Shaanxi,China,1,None,,03-02-2020,stable,,
+Baoji City,Shaanxi,China,1,None,,03-02-2020,stable,,
+Tongchuan City,Shaanxi,China,1,None,,03-02-2020,stable,,
+Hanzhong City,Shaanxi,China,1,None,,31-01-2020,stable,,
+Shangluo City,Shaanxi,China,1,None,,,stable,,0
+,Beijing,China,1,None,,,discharge,16-02-2020,
+"Huating County, Pingliang City",Gansu,China,1,diarrhea,,07-02-2020,discharge,17-02-2020,10
+Tongren City,Guizhou,China,1,None,,03-02-2020,stable,,
+"Tianzhu County, Qiandongnan Prefecture",Guizhou,China,1,"cough, fever, sputum",,,stable,,0
+Guiyang City,Guizhou,China,1,None,no,,stable,,0
+Guiyang City,Guizhou,China,1,None,,,stable,,0
+,Guizhou,China,1,None,yes,,stable,,0
+"Huaxi District, Guiyang City",Guizhou,China,1,None,,,stable,,0
+Quarry Bay,Hong Kong,China,1,"chills, cough, fever",,12-02-2020,stable,,
+Wan Chai,Hong Kong,China,1,fever,,12-02-2020,stable,,
+Jilin City,Jilin,China,1,None,,03-02-2020,discharge,22-02-2020,19
+Mallorca,Baleares,Spain,1,None,no,,discharge,,0
+"Luzzara, Reggio Emilia",Emilia-Romagna,Italy,1,"eye irritation, fever",no,,discharge,22-02-2020,
+"Thien Ke commune, Binh Xuyen District",Vinh Phuc,Vietnam,1,None,no,,discharge,18-02-2020,
+"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,1,"fever, headache, runny nose",no,04-02-2020,discharge,18-02-2020,14
+"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,1,transient fatigue,,,discharge,26-02-2020,
+National Centre for Infectious Diseases,,Singapore,1,None,,06-02-2020,discharge,16-02-2020,10
+KK Women’s and Children’s Hospital,,Singapore,1,None,,07-02-2020,discharge,14-02-2020,7
+National Centre for Infectious Diseases,,Singapore,1,None,,09-02-2020,discharge,24-02-2020,15
+National Centre for Infectious Diseases,,Singapore,1,None,no,10-02-2020,discharge,17-02-2020,7
+National University Hospital,,Singapore,1,None,no,10-02-2020,discharge,26-02-2020,16
+National Centre for Infectious Diseases,,Singapore,1,None,,,discharge,26-02-2020,
+National Centre for Infectious Diseases,,Singapore,1,None,,,discharge,25-02-2020,
+National Centre for Infectious Diseases,,Singapore,1,fever,,12-02-2020,discharge,26-02-2020,14
+Tanjong Pagar Road,,Singapore,1,None,,12-02-2020,discharge,25-02-2020,13
+,,Singapore,1,None,,,discharge,17-02-2020,
+,Tokyo,Japan,1,None,,,stable,,0
+,,Egypt,1,None,,,stable,,0
+Woodlands Crescent,,Singapore,1,None,,14-02-2020,discharge,27-02-2020,13
+Lorong 8 Toa Payoh,,Singapore,1,None,,14-02-2020,discharge,26-02-2020,12
+National Centre for Infectious Diseases,,Singapore,1,None,,,discharge,25-02-2020,
+Qom,Qom,Iran,1,None,,,death,19-02-2020,
+Qom,Qom,Iran,1,None,,,death,19-02-2020,
+Codogno,Lombardia,Italy,1,None,,,death,22-02-2020,
+Vo Euganeo,Veneto,Italy,1,None,,,death,22-02-2020,
+Cremona,Lombardia,Italy,1,None,,,death,23-02-2020,
+,,Iran,1,None,,,death,,0
+National Centre for Infectious Diseases,,Singapore,1,None,,,discharge,24-02-2020,
+Vo Euganeo,Veneto,Italy,1,None,,,discharge,23-02-2020,
+Dingxi City,Gansu,China,1,None,,22-01-2020,discharge,02-02-2020,11
+"Yongdeng County, Lanzhou City",Gansu,China,1,None,,23-01-2020,discharge,02-02-2020,10
+National Centre for Infectious Diseases,,Singapore,1,None,No,18-02-2020,discharge,25-02-2020,7
+Paris,Ile-de-France,France,1,None,,,death,26-02-2020,
+,Ticino,Switzerland,1,None,,,discharge,28-02-2020,

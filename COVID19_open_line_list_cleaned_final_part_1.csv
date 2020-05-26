@@ -1,0 +1,848 @@
+ID,age,sex,city,province,country,wuhan(0)_not_wuhan(1),latitude,longitude,geo_resolution
+1.0,30.0,male,"Chaohu City, Hefei City",Anhui,China,1.0,31.646959999999996,117.7166,admin3
+2.0,47.0,male,"Baohe District, Hefei City",Anhui,China,1.0,31.77863,117.3319,admin3
+3.0,49.0,male,"High-Tech Zone, Hefei City",Anhui,China,1.0,31.828313,117.22484399999999,point
+4.0,47.0,female,"High-Tech Zone, Hefei City",Anhui,China,1.0,31.828313,117.22484399999999,point
+5.0,50.0,female,"Feidong County, Hefei City",Anhui,China,1.0,32.00123,117.5681,admin3
+7.0,42.0,female,Fuyang City,Anhui,China,1.0,32.9188,115.7036,admin2
+9.0,59.0,female,Huainan City,Anhui,China,1.0,32.75738,116.734,admin2
+10.0,30.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+12.0,39.0,male,Fuyang City,Anhui,China,1.0,32.9188,115.7036,admin2
+14.0,38.0,female,Chizhou City,Anhui,China,1.0,30.28525,117.3658,admin2
+15.0,45.0,male,Bengbu City,Anhui,China,1.0,33.10901,117.32600000000001,admin2
+18.0,33.0,female,Changping District,Beijing,China,1.0,40.20789,116.2063,admin3
+21.0,37.0,male,Fengtai District,Beijing,China,1.0,39.8306,116.2499,admin3
+22.0,39.0,male,Haidian District,Beijing,China,1.0,40.02186,116.2285,admin3
+23.0,32.0,female,Haidian District,Beijing,China,1.0,40.02186,116.2285,admin3
+24.0,45.0,male,Shijingshan District,Beijing,China,1.0,39.92715,116.1737,admin3
+25.0,45.0,male,Shijingshan District,Beijing,China,1.0,39.92715,116.1737,admin3
+26.0,18.0,female,Tongzhou District,Beijing,China,1.0,39.80292,116.7363,admin3
+27.0,56.0,female,Xicheng District,Beijing,China,1.0,39.91093,116.3591,admin3
+28.0,42.0,male,Xicheng District,Beijing,China,1.0,39.91093,116.3591,admin3
+29.0,33.0,female,None,Beijing,China,1.0,40.18535,116.4151,admin1
+38.0,44.0,male,None,Beijing,China,1.0,40.18535,116.4151,admin1
+39.0,65.0,male,None,Beijing,China,1.0,40.18535,116.4151,admin1
+40.0,21.0,male,None,Beijing,China,1.0,40.18535,116.4151,admin1
+41.0,41.0,male,None,Beijing,China,1.0,40.18535,116.4151,admin1
+56.0,44.0,female,Wushan County,Chongqing,China,1.0,31.11774,109.8962,admin3
+79.0,30.0,female,Fuzhou City,Fujian,China,1.0,26.05196,119.1789,admin2
+80.0,70.0,male,Fuzhou City,Fujian,China,1.0,26.05196,119.1789,admin2
+81.0,43.0,female,Ningde City,Fujian,China,1.0,26.976740000000003,119.4745,admin2
+83.0,31.0,male,Xiamen City,Fujian,China,1.0,24.67595,118.1138,admin2
+89.0,43.0,male,Lanzhou City,Gansu,China,1.0,36.351259999999996,103.6554,admin2
+90.0,24.0,male,Baiyin City,Gansu,China,1.0,36.61864,104.6208,admin2
+91.0,40.0,male,Foshan City,Guangdong,China,1.0,23.0131,112.9444,admin2
+99.0,66.0,male,Shenzhen City,Guangdong,China,1.0,22.65389,114.1291,admin2
+100.0,65.0,female,Shenzhen City,Guangdong,China,1.0,22.65389,114.1291,admin2
+101.0,36.0,male,Shenzhen City,Guangdong,China,1.0,22.65389,114.1291,admin2
+102.0,10.0,male,Shenzhen City,Guangdong,China,1.0,22.65389,114.1291,admin2
+103.0,63.0,female,Shenzhen City,Guangdong,China,1.0,22.65389,114.1291,admin2
+104.0,37.0,female,Shenzhen City,Guangdong,China,1.0,22.65389,114.1291,admin2
+119.0,78.0,male,Zhuhai City,Guangdong,China,1.0,22.16925,113.361,admin2
+120.0,76.0,female,Zhuhai City,Guangdong,China,1.0,22.16925,113.361,admin2
+121.0,48.0,female,Zhuhai City,Guangdong,China,1.0,22.16925,113.361,admin2
+122.0,66.0,female,Zhuhai City,Guangdong,China,1.0,22.16925,113.361,admin2
+144.0,66.0,female,Beihai City,Guangxi,China,1.0,21.676660000000002,109.32799999999999,admin2
+145.0,63.0,male,Beihai City,Guangxi,China,1.0,21.676660000000002,109.32799999999999,admin2
+146.0,62.0,female,Beihai City,Guangxi,China,1.0,21.676660000000002,109.32799999999999,admin2
+147.0,49.0,male,Liuzhou City,Guangxi,China,1.0,24.95009,109.37100000000001,admin2
+148.0,46.0,male,Wuzhou City,Guangxi,China,1.0,23.481720000000003,110.9909,admin2
+150.0,34.0,male,Guilin City,Guangxi,China,1.0,25.35865,110.5145,admin2
+151.0,41.0,male,Guilin City,Guangxi,China,1.0,25.35865,110.5145,admin2
+152.0,72.0,female,Beihai City,Guangxi,China,1.0,21.676660000000002,109.32799999999999,admin2
+153.0,20.0,female,Beihai City,Guangxi,China,1.0,21.676660000000002,109.32799999999999,admin2
+154.0,54.0,male,Beihai City,Guangxi,China,1.0,21.676660000000002,109.32799999999999,admin2
+155.0,33.0,female,Baise City,Guangxi,China,1.0,23.98862,106.2863,admin2
+156.0,49.0,female,Hechi City,Guangxi,China,1.0,24.64574,107.8409,admin2
+161.0,42.0,male,Liuzhou City,Guangxi,China,1.0,24.95009,109.37100000000001,admin2
+162.0,33.0,male,Hechi City,Guangxi,China,1.0,24.64574,107.8409,admin2
+163.0,2.0,female,Hechi City,Guangxi,China,1.0,24.64574,107.8409,admin2
+164.0,29.0,male,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+165.0,62.0,male,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+166.0,61.0,male,Yulin City,Guangxi,China,1.0,22.44296,110.182,admin2
+167.0,20.0,male,"Guiding County, Qiannan Prefecture",Guizhou,China,1.0,26.43055,107.1928,admin3
+168.0,51.0,male,Guiyang City,Guizhou,China,1.0,26.84311,106.7064,admin2
+169.0,50.0,female,Tongren City,Guizhou,China,1.0,27.973740000000003,108.5408,admin2
+173.0,72.0,male,Shijiazhuang City,Hebei,China,1.0,38.13361,114.4384,admin2
+174.0,80.0,male,Cangzhou City,Hebei,China,1.0,38.26855,116.7593,admin2
+175.0,49.0,male,Harbin City,Heilongjiang,China,1.0,45.646570000000004,127.9588,admin2
+176.0,69.0,male,Mudanjiang City,Heilongjiang,China,1.0,44.6065,129.8858,admin2
+179.0,66.0,male,Zhengzhou City,Henan,China,1.0,34.62931,113.46799999999999,admin2
+180.0,32.0,female,Sanmenxia City,Henan,China,1.0,34.36358,111.1065,admin2
+181.0,28.0,male,Luoyang City,Henan,China,1.0,34.2936,112.0323,admin2
+186.0,55.0,male,Zhengzhou City,Henan,China,1.0,34.62931,113.46799999999999,admin2
+187.0,68.0,male,Zhengzhou City,Henan,China,1.0,34.62931,113.46799999999999,admin2
+188.0,30.0,female,Zhengzhou City,Henan,China,1.0,34.62931,113.46799999999999,admin2
+189.0,34.0,female,Xinxiang City,Henan,China,1.0,35.26547,114.084,admin2
+190.0,30.0,female,Zhengzhou City,Henan,China,1.0,34.62931,113.46799999999999,admin2
+191.0,50.0,male,Zhoukou City,Henan,China,1.0,33.723859999999995,114.8773,admin2
+192.0,39.0,male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+193.0,56.0,male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+194.0,62.0,female,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+195.0,63.0,male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+196.0,62.0,female,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+197.0,57.0,female,Changsha City,Hunan,China,1.0,28.227590000000003,113.1532,admin2
+198.0,35.0,female,"Hecheng District, Huaihua City",Hunan,China,1.0,27.641059999999996,109.9751,admin3
+199.0,40.0,female,"Hecheng District, Huaihua City",Hunan,China,1.0,27.641059999999996,109.9751,admin3
+200.0,30.0,male,"Hecheng District, Huaihua City",Hunan,China,1.0,27.641059999999996,109.9751,admin3
+221.0,30.0,male,"Manzhouli City, Hulunbuir City",Inner Mongolia,China,1.0,49.53241,117.4943,admin3
+222.0,37.0,male,Suzhou City,Jiangsu,China,1.0,31.378020000000003,120.6418,admin2
+231.0,56.0,male,"Dongxiang County, Fuzhou City",Jiangxi,China,1.0,28.218759999999996,116.6081,admin3
+232.0,50.0,male,"Xiangdong District, Pingxiang City",Jiangxi,China,1.0,27.506990000000002,113.7218,admin3
+238.0,35.0,male,Fuzhou City,Jiangxi,China,1.0,27.51128,116.4344,admin2
+239.0,36.0,female,Fuzhou City,Jiangxi,China,1.0,27.51128,116.4344,admin2
+240.0,35.0,female,Fuzhou City,Jiangxi,China,1.0,27.51128,116.4344,admin2
+241.0,27.0,male,Ganzhou City,Jiangxi,China,1.0,25.71368,115.2745,admin2
+242.0,40.0,female,Ganzhou City,Jiangxi,China,1.0,25.71368,115.2745,admin2
+249.0,42.0,female,Changchun City,Jilin,China,1.0,44.38803,125.76899999999999,admin2
+252.0,33.0,male,Dalian City,Liaoning,China,1.0,39.59944,122.2224,admin2
+253.0,40.0,male,Shenyang City,Liaoning,China,1.0,42.100120000000004,123.1391,admin2
+254.0,50.0,female,Shenyang City,Liaoning,China,1.0,42.100120000000004,123.1391,admin2
+255.0,42.0,male,Chaoyang City,Liaoning,China,1.0,41.51421,120.0166,admin2
+256.0,66.0,male,Border Checkpoint,Macau,China,1.0,22.166667,113.55,point
+257.0,52.0,female,Landmark Hotel,Macau,China,1.0,22.166667,113.55,point
+258.0,29.0,male,Yinchuan City,Ningxia,China,1.0,38.2349,106.3496,admin2
+259.0,28.0,male,Zhongwei City,Ningxia,China,1.0,37.0548,105.4777,admin2
+260.0,22.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+261.0,32.0,female,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+262.0,42.0,male,Xianyang City,Shaanxi,China,1.0,34.78867,108.3897,admin2
+263.0,23.0,male,Yan'an City,Shaanxi,China,1.0,36.44222,109.3161,admin2
+264.0,49.0,male,Ankang City,Shaanxi,China,1.0,32.761829999999996,108.9258,admin2
+265.0,38.0,male,Weihai City,Shandong,China,1.0,37.12174,121.9821,admin2
+266.0,62.0,female,Linyi City,Shandong,China,1.0,35.31235,118.2809,admin2
+267.0,65.0,male,Linyi City,Shandong,China,1.0,35.31235,118.2809,admin2
+280.0,56.0,female,None,Shanghai,China,1.0,31.2045,121.4555,admin1
+281.0,35.0,male,None,Shanghai,China,1.0,31.2045,121.4555,admin1
+292.0,88.0,male,None,Shanghai,China,1.0,31.2045,121.4555,admin1
+301.0,28.0,female,Chengdu City,Sichuan,China,1.0,30.70291,103.8256,admin2
+302.0,31.0,male,Chengdu City,Sichuan,China,1.0,30.70291,103.8256,admin2
+303.0,50.0,male,Chengdu City,Sichuan,China,1.0,30.70291,103.8256,admin2
+304.0,48.0,male,Chengdu City,Sichuan,China,1.0,30.70291,103.8256,admin2
+305.0,36.0,male,Dazhou City,Sichuan,China,1.0,31.370140000000003,107.6465,admin2
+307.0,37.0,male,Mianyang City,Sichuan,China,1.0,31.8534,104.7008,admin2
+308.0,19.0,male,Mianyang City,Sichuan,China,1.0,31.8534,104.7008,admin2
+309.0,60.0,female,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+310.0,58.0,male,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+313.0,29.0,female,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+316.0,47.0,male,Urumqi City,Xinjiang,China,1.0,43.73043,87.78531,admin2
+317.0,52.0,male,Urumqi City,Xinjiang,China,1.0,43.73043,87.78531,admin2
+318.0,51.0,male,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+319.0,53.0,male,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+320.0,39.0,female,Xishuangbanna Prefecture,Yunnan,China,1.0,21.93139,100.9477,admin2
+321.0,34.0,female,Lijiang City,Yunnan,China,1.0,26.94233,100.5235,admin2
+322.0,49.0,male,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+343.0,46.0,male,Wenzhou City,Zhejiang,China,1.0,27.905379999999997,120.4404,admin2
+344.0,46.0,male,Wenzhou City,Zhejiang,China,1.0,27.905379999999997,120.4404,admin2
+459.0,40.0,female,"Feidong County, Hefei City",Anhui,China,1.0,32.00123,117.5681,admin3
+460.0,51.0,male,"Feidong County, Hefei City",Anhui,China,1.0,32.00123,117.5681,admin3
+461.0,37.0,male,"Lujiang County, Hefei City",Anhui,China,1.0,31.269679999999997,117.32,admin3
+462.0,55.0,male,"Yaohai District, Hefei City",Anhui,China,1.0,31.89544,117.3384,admin3
+463.0,32.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+464.0,24.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+465.0,39.0,male,"Lujiang County, Hefei City",Anhui,China,1.0,31.269679999999997,117.32,admin3
+466.0,25.0,female,Fuyang City,Anhui,China,1.0,32.9188,115.7036,admin2
+467.0,56.0,male,Fuyang City,Anhui,China,1.0,32.9188,115.7036,admin2
+468.0,44.0,male,Fuyang City,Anhui,China,1.0,32.9188,115.7036,admin2
+469.0,50.0,male,Fuyang City,Anhui,China,1.0,32.9188,115.7036,admin2
+470.0,42.0,male,Fuyang City,Anhui,China,1.0,32.9188,115.7036,admin2
+471.0,43.0,male,Fuyang City,Anhui,China,1.0,32.9188,115.7036,admin2
+472.0,22.0,male,Fuyang City,Anhui,China,1.0,32.9188,115.7036,admin2
+473.0,43.0,male,Fuyang City,Anhui,China,1.0,32.9188,115.7036,admin2
+474.0,51.0,male,Bozhou City,Anhui,China,1.0,33.43671,116.1808,admin2
+475.0,38.0,male,Bozhou City,Anhui,China,1.0,33.43671,116.1808,admin2
+476.0,59.0,male,Bozhou City,Anhui,China,1.0,33.43671,116.1808,admin2
+477.0,60.0,male,Bozhou City,Anhui,China,1.0,33.43671,116.1808,admin2
+478.0,35.0,male,Bozhou City,Anhui,China,1.0,33.43671,116.1808,admin2
+479.0,25.0,female,Bozhou City,Anhui,China,1.0,33.43671,116.1808,admin2
+480.0,49.0,male,"Wangjiang County, Anqing City",Anhui,China,1.0,30.24028,116.6771,admin3
+481.0,41.0,male,"Tongcheng City, Anqing City",Anhui,China,1.0,30.96895,116.9416,admin3
+482.0,57.0,male,"Qianshan City, Anqing City",Anhui,China,1.0,30.755020000000002,116.5411,admin3
+591.0,26.0,male,Datong City,Shanxi,China,1.0,39.9064,113.7186,admin2
+600.0,30.0,female,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+601.0,64.0,female,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+602.0,33.0,male,"Lianhu District, Xi'an City",Shaanxi,China,1.0,34.27251,108.8962,admin3
+603.0,28.0,male,Ankang City,Shaanxi,China,1.0,32.761829999999996,108.9258,admin2
+604.0,41.0,male,Ankang City,Shaanxi,China,1.0,32.761829999999996,108.9258,admin2
+606.0,42.0,female,"Luoping County, Qujing City",Yunnan,China,1.0,24.98012,104.3416,admin3
+607.0,24.0,male,Yuxi City,Yunnan,China,1.0,24.14295,102.2032,admin2
+608.0,32.0,female,"Mengzi City, Honghe Prefecture",Yunnan,China,1.0,23.33841,103.4879,admin3
+609.0,34.0,male,Dali Prefecture,Yunnan,China,1.0,25.73038,100.037,admin2
+610.0,63.0,male,Lijiang City,Yunnan,China,1.0,26.94233,100.5235,admin2
+611.0,58.0,male,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+617.0,49.0,male,Urumqi City,Xinjiang,China,1.0,43.73043,87.78531,admin2
+620.0,27.0,male,Xining City,Qinghai,China,1.0,36.82615,101.4437,admin2
+623.0,68.0,female,Haikou City,Hainan,China,1.0,19.83166,110.4222,admin2
+624.0,45.0,male,Haikou City,Hainan,China,1.0,19.83166,110.4222,admin2
+625.0,65.0,female,Lingao County,Hainan,China,1.0,19.80185,109.7128,admin3
+626.0,27.0,male,Sanya City,Hainan,China,1.0,18.39084,109.4197,admin2
+645.0,48.0,male,Bordeaux,Nouvelle-Aquitaine,France,1.0,44.8378,-0.5792,point
+646.0,30.0,female,Paris,Ile-de-France,France,1.0,48.8566,2.3522,point
+647.0,31.0,male,Paris,Ile-de-France,France,1.0,48.8566,2.3522,point
+648.0,40.0,male,Narita Airport,Tokyo,Japan,1.0,35.76528,140.3856,point
+649.0,30.0,male,None,Tokyo,Japan,1.0,35.71145,139.4468,admin1
+651.0,65.0,female,Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,1.0,3.139,101.6869,point
+652.0,2.0,male,Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,1.0,3.139,101.6869,point
+653.0,11.0,male,Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,1.0,3.139,101.6869,point
+660.0,55.0,female,Taoyuan International Airport,Taiwan,None,1.0,0.0,0.0,None
+663.0,73.0,female,None,Nakhon Pathom,Thailand,1.0,13.92591,100.1057,admin1
+664.0,68.0,male,None,Nonthaburi,Thailand,1.0,13.92265,100.3943,admin1
+665.0,61.0,female,Bangkok,Bangkok Metropolis,Thailand,1.0,13.76658,100.5363,point
+666.0,74.0,female,Bangkok,Bangkok Metropolis,Thailand,1.0,13.76658,100.5363,point
+667.0,33.0,female,Bangkok,Bangkok Metropolis,Thailand,1.0,13.76658,100.5363,point
+668.0,60.0,female,Chicago,Illinois,United States,1.0,41.8781,-87.6298,point
+669.0,35.0,male,Snohomish County,Washington,United States,1.0,48.04805,-121.697,admin2
+670.0,66.0,male,Nha Trang,Khanh Hoa,Vietnam,1.0,12.2388,109.1967,point
+671.0,28.0,male,Nha Trang,Khanh Hoa,Vietnam,1.0,12.2388,109.1967,point
+672.0,40.0,male,None,Johor,Malaysia,1.0,2.0506130000000002,103.3899,admin1
+673.0,35.0,male,Sydney,New South Wales,Australia,1.0,-32.23834,147.0045,admin1
+674.0,43.0,male,Sydney,New South Wales,Australia,1.0,-32.23834,147.0045,admin1
+675.0,53.0,male,Sydney,New South Wales,Australia,1.0,-32.23834,147.0045,admin1
+677.0,50.0,male,Orange County,California,United States,1.0,33.70316,-117.76100000000001,admin2
+678.0,51.0,male,Bangkok,Bangkok Metropolis,Thailand,1.0,13.76658,100.5363,point
+679.0,73.0,female,Hua Hin District,Prachuap Khiri Khan,Thailand,1.0,0.0,0.0,None
+682.0,54.0,male,Seoul,Seoul,South Korea,1.0,37.56667,126.9667,point
+683.0,56.0,male,Toronto,Ontario,Canada,1.0,43.667256,-79.39181500000001,point
+684.0,40.0,male,None,Tokyo,Japan,1.0,35.71145,139.4468,admin1
+883.0,43.0,male,Ma'anshan City,Anhui,China,1.0,31.62885,118.35600000000001,admin2
+884.0,48.0,female,Ma'anshan City,Anhui,China,1.0,31.62885,118.35600000000001,admin2
+885.0,54.0,female,Ma'anshan City,Anhui,China,1.0,31.62885,118.35600000000001,admin2
+886.0,47.0,male,Ma'anshan City,Anhui,China,1.0,31.62885,118.35600000000001,admin2
+887.0,55.0,male,Ma'anshan City,Anhui,China,1.0,31.62885,118.35600000000001,admin2
+888.0,47.0,female,Ma'anshan City,Anhui,China,1.0,31.62885,118.35600000000001,admin2
+889.0,46.0,female,Ma'anshan City,Anhui,China,1.0,31.62885,118.35600000000001,admin2
+956.0,47.0,female,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+958.0,41.0,male,Fuzhou City,Jiangxi,China,1.0,27.51128,116.4344,admin2
+959.0,36.0,male,Fuzhou City,Jiangxi,China,1.0,27.51128,116.4344,admin2
+1011.0,70.0,female,Tongchuan City,Shaanxi,China,1.0,35.19603,109.0307,admin2
+1012.0,52.0,female,Tongchuan City,Shaanxi,China,1.0,35.19603,109.0307,admin2
+1017.0,44.0,male,Hanzhong City,Shaanxi,China,1.0,33.0928,107.1014,admin2
+1055.0,47.0,male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+1056.0,58.0,female,None,Macau,China,1.0,22.158910000000002,113.5611,admin1
+1057.0,39.0,female,None,Macau,China,1.0,22.158910000000002,113.5611,admin1
+1058.0,21.0,female,None,Macau,China,1.0,22.158910000000002,113.5611,admin1
+1062.0,42.0,male,Xining City,Qinghai,China,1.0,36.82615,101.4437,admin2
+1063.0,38.0,female,Xining City,Qinghai,China,1.0,36.82615,101.4437,admin2
+1064.0,7.0,male,Xining City,Qinghai,China,1.0,36.82615,101.4437,admin2
+1072.0,43.0,male,Fuzhou City,Jiangxi,China,1.0,27.51128,116.4344,admin2
+1084.0,68.0,female,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+1085.0,64.0,male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+1086.0,21.0,female,Sydney,New South Wales,Australia,1.0,-32.23834,147.0045,admin1
+1087.0,60.0,male,Sihanoukville City,Sihanoukville,Cambodia,1.0,10.633333,103.5,point
+1296.0,44.0,female,Bengbu City,Anhui,China,1.0,33.10901,117.32600000000001,admin2
+1297.0,53.0,male,Bengbu City,Anhui,China,1.0,33.10901,117.32600000000001,admin2
+1394.0,39.0,male,Ankang City,Shaanxi,China,1.0,32.761829999999996,108.9258,admin2
+1395.0,41.0,female,Ankang City,Shaanxi,China,1.0,32.761829999999996,108.9258,admin2
+1396.0,31.0,female,Ankang City,Shaanxi,China,1.0,32.761829999999996,108.9258,admin2
+1397.0,27.0,male,Ankang City,Shaanxi,China,1.0,32.761829999999996,108.9258,admin2
+1443.0,82.0,female,"Chengguan District, Lanzhou City",Gansu,China,1.0,36.07809,103.8756,admin3
+1454.0,34.0,male,Liupanshui City,Guizhou,China,1.0,26.136229999999998,104.8908,admin2
+1455.0,22.0,female,Qiannan Prefecture,Guizhou,China,1.0,26.0176,107.2502,admin2
+1461.0,67.0,female,None,Macau,China,1.0,22.158910000000002,113.5611,admin1
+1463.0,52.0,female,None,Taiwan,None,1.0,23.75947,120.9559,admin1
+1472.0,15.0,male,Xining City,Qinghai,China,1.0,36.82615,101.4437,admin2
+1473.0,30.0,male,Xining City,Qinghai,China,1.0,36.82615,101.4437,admin2
+1485.0,33.0,male,Starnberg,Bavaria,Germany,1.0,47.99722,11.34056,point
+1486.0,55.0,male,Pyeongtaek,Gyeonggi,South Korea,1.0,36.992236,127.112821,point
+1510.0,23.0,female,Fuzhou City,Jiangxi,China,1.0,27.51128,116.4344,admin2
+1511.0,28.0,male,Huainan City,Anhui,China,1.0,32.75738,116.734,admin2
+1593.0,49.0,female,"Feidong County, Hefei City",Anhui,China,1.0,32.00123,117.5681,admin3
+1594.0,25.0,female,"Baohe District, Hefei City",Anhui,China,1.0,31.77863,117.3319,admin3
+1595.0,40.0,male,"Feidong County, Hefei City",Anhui,China,1.0,32.00123,117.5681,admin3
+1678.0,59.0,female,Chengdu City,Sichuan,China,1.0,30.70291,103.8256,admin2
+1679.0,38.0,male,Chengdu City,Sichuan,China,1.0,30.70291,103.8256,admin2
+1680.0,37.0,male,Chengdu City,Sichuan,China,1.0,30.70291,103.8256,admin2
+1681.0,49.0,male,Chengdu City,Sichuan,China,1.0,30.70291,103.8256,admin2
+1682.0,43.0,female,Zigong City,Sichuan,China,1.0,29.28939,104.68299999999999,admin2
+1683.0,39.0,female,Zigong City,Sichuan,China,1.0,29.28939,104.68299999999999,admin2
+1684.0,41.0,male,Zigong City,Sichuan,China,1.0,29.28939,104.68299999999999,admin2
+1685.0,67.0,female,Zigong City,Sichuan,China,1.0,29.28939,104.68299999999999,admin2
+1686.0,52.0,female,Zigong City,Sichuan,China,1.0,29.28939,104.68299999999999,admin2
+1687.0,31.0,male,Luzhou City,Sichuan,China,1.0,28.44237,105.666,admin2
+1688.0,34.0,female,Mianyang City,Sichuan,China,1.0,31.8534,104.7008,admin2
+1689.0,24.0,female,Suining City,Sichuan,China,1.0,30.633309999999998,105.4711,admin2
+1690.0,47.0,male,Neijiang City,Sichuan,China,1.0,29.6418,104.9131,admin2
+1691.0,16.0,male,Neijiang City,Sichuan,China,1.0,29.6418,104.9131,admin2
+1692.0,32.0,male,Leshan City,Sichuan,China,1.0,29.21265,103.5687,admin2
+1693.0,32.0,female,Nanchong City,Sichuan,China,1.0,31.197029999999998,106.2033,admin2
+1694.0,25.0,male,Nanchong City,Sichuan,China,1.0,31.197029999999998,106.2033,admin2
+1695.0,52.0,female,Guang'an City,Sichuan,China,1.0,30.42717,106.6635,admin2
+1696.0,42.0,female,Ya'an City,Sichuan,China,1.0,29.92197,102.6656,admin2
+1697.0,51.0,male,Ganzi Prefecture,Sichuan,China,1.0,30.945059999999998,100.01,admin2
+1698.0,43.0,male,Liangshan Prefecture,Sichuan,China,1.0,27.892709999999997,102.0762,admin2
+1834.0,36.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+1835.0,41.0,female,Baoji City,Shaanxi,China,1.0,34.38244,107.2001,admin2
+1836.0,25.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+1837.0,46.0,female,Baoji City,Shaanxi,China,1.0,34.38244,107.2001,admin2
+1838.0,50.0,male,Baoji City,Shaanxi,China,1.0,34.38244,107.2001,admin2
+1839.0,36.0,female,Weinan City,Shaanxi,China,1.0,34.955529999999996,109.8585,admin2
+1840.0,36.0,male,Weinan City,Shaanxi,China,1.0,34.955529999999996,109.8585,admin2
+1841.0,32.0,female,Shangluo City,Shaanxi,China,1.0,33.6493,109.9016,admin2
+1842.0,64.0,male,Hanzhong City,Shaanxi,China,1.0,33.0928,107.1014,admin2
+1843.0,70.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+1844.0,25.0,male,Ankang City,Shaanxi,China,1.0,32.761829999999996,108.9258,admin2
+1882.0,33.0,female,Starnberg,Bavaria,Germany,1.0,47.99722,11.34056,point
+1992.0,5.0,male,Fuzhou City,Jiangxi,China,1.0,27.51128,116.4344,admin2
+2002.0,15.0,male,None,Macau,China,1.0,22.158910000000002,113.5611,admin1
+2021.0,50.0,male,None,Taiwan,None,1.0,23.75947,120.9559,admin1
+2025.0,44.0,male,Gold Coast,Queensland,Australia,1.0,-28.0167,153.4,point
+2026.0,22.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2027.0,22.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2028.0,22.0,female,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2029.0,22.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2030.0,24.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2031.0,22.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2032.0,30.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2033.0,30.0,female,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2034.0,64.0,female,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2035.0,52.0,female,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2036.0,45.0,female,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2037.0,40.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2038.0,52.0,female,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2354.0,46.0,female,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+2355.0,49.0,male,Hanzhong City,Shaanxi,China,1.0,33.0928,107.1014,admin2
+2356.0,36.0,male,Hanzhong City,Shaanxi,China,1.0,33.0928,107.1014,admin2
+2357.0,29.0,male,Ankang City,Shaanxi,China,1.0,32.761829999999996,108.9258,admin2
+2358.0,26.0,male,Ankang City,Shaanxi,China,1.0,32.761829999999996,108.9258,admin2
+2359.0,27.0,male,Xianyang City,Shaanxi,China,1.0,34.78867,108.3897,admin2
+2360.0,46.0,male,Baoji City,Shaanxi,China,1.0,34.38244,107.2001,admin2
+2361.0,66.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+2362.0,3.0,female,Yan'an City,Shaanxi,China,1.0,36.44222,109.3161,admin2
+2363.0,45.0,female,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+2593.0,32.0,female,Ivalo Village,Lapland,Finland,1.0,68.65,27.55,point
+2928.0,56.0,female,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2929.0,49.0,male,"Baohe District, Hefei City",Anhui,China,1.0,31.77863,117.3319,admin3
+2930.0,34.0,female,"Shushan District, Hefei City",Anhui,China,1.0,31.82562,117.2001,admin3
+2931.0,71.0,male,"Yaohai District, Hefei City",Anhui,China,1.0,31.89544,117.3384,admin3
+2932.0,22.0,female,"Feidong County, Hefei City",Anhui,China,1.0,32.00123,117.5681,admin3
+2933.0,16.0,female,"Feidong County, Hefei City",Anhui,China,1.0,32.00123,117.5681,admin3
+2934.0,28.0,male,"Chaohu City, Hefei City",Anhui,China,1.0,31.646959999999996,117.7166,admin3
+2935.0,47.0,female,"Yaohai District, Hefei City",Anhui,China,1.0,31.89544,117.3384,admin3
+2936.0,35.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2937.0,37.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+2961.0,38.0,female,Manila,National Capital Region (NCR),Philippines,1.0,14.5958,120.9772,point
+2967.0,42.0,female,Gold Coast,Queensland,Australia,1.0,-28.0167,153.4,point
+2971.0,29.0,male,None,Vinh Phuc,Vietnam,1.0,21.3,105.6,admin1
+2972.0,23.0,female,None,Vinh Phuc,Vietnam,1.0,21.3,105.6,admin1
+2977.0,34.0,male,Lhasa City,Tibet,China,1.0,30.03105,91.10946,admin2
+2994.0,25.0,female,Thanh Hoa,Thanh Hoa,Vietnam,1.0,19.806749,105.784921,point
+3007.0,28.0,male,None,Beijing,China,1.0,40.18535,116.4151,admin1
+3008.0,44.0,female,None,Beijing,China,1.0,40.18535,116.4151,admin1
+3009.0,33.0,male,None,Beijing,China,1.0,40.18535,116.4151,admin1
+3010.0,49.0,male,None,Beijing,China,1.0,40.18535,116.4151,admin1
+3011.0,80.0,male,None,Beijing,China,1.0,40.18535,116.4151,admin1
+3012.0,45.0,female,None,Beijing,China,1.0,40.18535,116.4151,admin1
+3013.0,45.0,male,None,Beijing,China,1.0,40.18535,116.4151,admin1
+3014.0,77.0,male,None,Beijing,China,1.0,40.18535,116.4151,admin1
+3019.0,55.0,male,Seoul,Seoul,South Korea,1.0,37.56667,126.9667,point
+3020.0,33.0,male,Seoul,Seoul,South Korea,1.0,37.56667,126.9667,point
+3041.0,44.0,male,Xining City,Qinghai,China,1.0,36.82615,101.4437,admin2
+3049.0,22.0,female,Zunyi City,Guizhou,China,1.0,28.171429999999997,107.0848,admin2
+3050.0,50.0,female,"Kaili City, Qiandongnan Prefecture",Guizhou,China,1.0,26.6305,107.9382,admin3
+3051.0,35.0,male,Bijie City,Guizhou,China,1.0,27.06873,105.2156,admin2
+3052.0,72.0,male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+3053.0,73.0,female,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+3434.0,31.0,female,"Chengguan District, Lanzhou City",Gansu,China,1.0,36.07809,103.8756,admin3
+3435.0,34.0,male,"Chengguan District, Lanzhou City",Gansu,China,1.0,36.07809,103.8756,admin3
+3436.0,33.0,male,Lanzhou City,Gansu,China,1.0,36.351259999999996,103.6554,admin2
+3681.0,37.0,female,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+3682.0,75.0,male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+4109.0,39.0,male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+4148.0,31.0,female,"Shushan District, Hefei City",Anhui,China,1.0,31.82562,117.2001,admin3
+4149.0,28.0,female,"Lujiang County, Hefei City",Anhui,China,1.0,31.269679999999997,117.32,admin3
+4150.0,37.0,male,"Yaohai District, Hefei City",Anhui,China,1.0,31.89544,117.3384,admin3
+4151.0,51.0,female,"Lujiang County, Hefei City",Anhui,China,1.0,31.269679999999997,117.32,admin3
+4152.0,45.0,female,"Feidong County, Hefei City",Anhui,China,1.0,32.00123,117.5681,admin3
+4153.0,27.0,female,"Changfeng County, Hefei City",Anhui,China,1.0,32.2842,117.1614,admin3
+4154.0,32.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+4155.0,35.0,male,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+4156.0,34.0,female,Hefei City,Anhui,China,1.0,31.79444,117.3428,admin2
+4280.0,31.0,male,"Chengguan District, Lanzhou City",Gansu,China,1.0,36.07809,103.8756,admin3
+4281.0,66.0,female,"Chengguan District, Lanzhou City",Gansu,China,1.0,36.07809,103.8756,admin3
+4282.0,48.0,female,"Honggu District, Lanzhou City",Gansu,China,1.0,36.275659999999995,103.1088,admin3
+4283.0,32.0,male,"Weiyuan County, Dingxi City",Gansu,China,1.0,35.13411,104.1369,admin3
+4284.0,60.0,male,Gannan Prefecture,Gansu,China,1.0,34.33256,102.7657,admin2
+4395.0,38.0,male,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+4397.0,65.0,male,Sanya City,Hainan,China,1.0,18.39084,109.4197,admin2
+4398.0,48.0,female,Lingao County,Hainan,China,1.0,19.80185,109.7128,admin3
+4399.0,63.0,female,Sanya City,Hainan,China,1.0,18.39084,109.4197,admin2
+4566.0,37.0,male,Baotou City,Inner Mongolia,China,1.0,41.56212,110.2561,admin2
+4567.0,40.0,male,"Dalad Banner, Ordos City",Inner Mongolia,China,1.0,40.21311,109.8538,admin3
+4568.0,57.0,female,"Tumed Right Banner, Baotou City",Inner Mongolia,China,1.0,40.52088,110.6803,admin3
+4647.0,56.0,male,"Jingyue District, Nanguan District, Changchun City",Jilin,China,1.0,43.830236799999994,125.42543629999999,point
+4648.0,55.0,female,"Jingyue District, Nanguan District, Changchun City",Jilin,China,1.0,43.830236799999994,125.42543629999999,point
+4649.0,31.0,female,"Jingyue District, Nanguan District, Changchun City",Jilin,China,1.0,43.830236799999994,125.42543629999999,point
+4670.0,43.0,male,Xining City,Qinghai,China,1.0,36.82615,101.4437,admin2
+4787.0,70.0,female,Dali Prefecture,Yunnan,China,1.0,25.73038,100.037,admin2
+4788.0,53.0,female,Yuxi City,Yunnan,China,1.0,24.14295,102.2032,admin2
+4789.0,72.0,male,"Hongta District, Yuxi City",Yunnan,China,1.0,24.366789999999998,102.4916,admin3
+4790.0,45.0,female,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+4791.0,62.0,female,Yuxi City,Yunnan,China,1.0,24.14295,102.2032,admin2
+4792.0,37.0,female,Yuxi City,Yunnan,China,1.0,24.14295,102.2032,admin2
+4862.0,33.0,male,Munich,Bavaria,Germany,1.0,48.13333,11.56667,point
+4863.0,52.0,male,Fuerstenfeldbruck,Bavaria,Germany,1.0,48.17778,11.255560000000001,point
+4868.0,25.0,female,"Hotel Ton Dan Street, Nha Trang",Khanh Hoa,Vietnam,1.0,12.237763000000001,109.193574,point
+4870.0,44.0,male,Manila,National Capital Region (NCR),Philippines,1.0,14.5958,120.9772,point
+4872.0,49.0,female,Permai Hospital,Johor,Malaysia,1.0,1.523149,103.7034062,point
+4874.0,60.0,male,None,South Australia,Australia,1.0,-30.22263,135.869,admin1
+4875.0,60.0,female,None,South Australia,Australia,1.0,-30.22263,135.869,admin1
+4877.0,28.0,male,Seoul,Seoul,South Korea,1.0,37.56667,126.9667,point
+4879.0,28.0,female,Seoul,Seoul,South Korea,1.0,37.56667,126.9667,point
+4880.0,54.0,male,Seoul,Seoul,South Korea,1.0,37.56667,126.9667,point
+4881.0,25.0,male,Seoul,Seoul,South Korea,1.0,37.56667,126.9667,point
+4882.0,49.0,male,"Seoul National University, Bundang Hospital",Gyeonggi,South Korea,1.0,37.35132,127.1233,point
+4883.0,28.0,male,National Medical Center,Seoul,South Korea,1.0,37.56767,127.0057,point
+4884.0,40.0,female,"Seoul National University, Bundang Hospital",Gyeonggi,South Korea,1.0,37.35132,127.1233,point
+4885.0,43.0,male,National Guard Capital Hospital,Seoul,South Korea,1.0,37.566666999999995,126.96666699999999,point
+4903.0,80.0,male,New Territories,Hong Kong,China,1.0,22.406999999999996,114.12200000000001,point
+4905.0,57.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4906.0,31.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4907.0,52.0,male,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4908.0,59.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4909.0,29.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4910.0,30.0,male,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4911.0,77.0,male,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4912.0,10.0,male,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4913.0,34.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4914.0,61.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4915.0,59.0,male,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4916.0,56.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4917.0,28.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4918.0,61.0,male,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4919.0,35.0,male,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4920.0,42.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4921.0,20.0,male,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4922.0,44.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4923.0,75.0,male,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4924.0,43.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4925.0,66.0,male,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4926.0,44.0,male,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+4927.0,39.0,female,Beijing,Beijing,China,1.0,40.18535,116.4151,admin2
+5105.0,64.0,male,"Qishan County, Baoji City",Shaanxi,China,1.0,34.40641,107.6779,admin3
+5106.0,74.0,male,"Wangyi District, Tongchuan City",Shaanxi,China,1.0,35.039840000000005,109.0673,admin3
+5107.0,62.0,female,"Wugong County, Xianyang City",Shaanxi,China,1.0,34.31159,108.1799,admin3
+5108.0,5.0,female,"Hanbin District, Ankang City",Shaanxi,China,1.0,32.81089,108.8847,admin3
+5110.0,68.0,female,Hanzhong City,Shaanxi,China,1.0,33.0928,107.1014,admin2
+5111.0,70.0,male,Hanzhong City,Shaanxi,China,1.0,33.0928,107.1014,admin2
+5112.0,39.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5113.0,48.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5114.0,72.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5115.0,73.0,female,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5116.0,34.0,female,"Beilin District, Xi'an City",Shaanxi,China,1.0,34.24815,108.9538,admin3
+5117.0,50.0,female,"Xincheng District, Xi'an City",Shaanxi,China,1.0,34.27348,108.9863,admin3
+5118.0,36.0,male,"Gaoling County, Xi'an City",Shaanxi,China,1.0,34.50897,109.0626,admin3
+5119.0,56.0,female,"Baqiao District, Xi'an City",Shaanxi,China,1.0,34.3024,109.0889,admin3
+5120.0,26.0,male,"Chengguan District, Lanzhou City",Gansu,China,1.0,36.07809,103.8756,admin3
+5121.0,73.0,female,"Xigu District, Lanzhou City",Gansu,China,1.0,36.12968,103.51899999999999,admin3
+5122.0,44.0,male,"Xigu District, Lanzhou City",Gansu,China,1.0,36.12968,103.51899999999999,admin3
+5123.0,36.0,male,"Ningxian County, Qingyang City",Gansu,China,1.0,35.565909999999995,108.1031,admin3
+5124.0,38.0,female,"Linxia City, Linxia Prefecture",Gansu,China,1.0,35.58106,103.1937,admin3
+5125.0,20.0,female,"Lixian County, Longnan City",Gansu,China,1.0,34.10804,105.0565,admin3
+5126.0,64.0,female,"Maiji District, Tianshui City",Gansu,China,1.0,34.415,106.1453,admin3
+5127.0,59.0,male,"Maiji District, Tianshui City",Gansu,China,1.0,34.415,106.1453,admin3
+5128.0,39.0,female,"Maiji District, Tianshui City",Gansu,China,1.0,34.415,106.1453,admin3
+5129.0,46.0,female,"Qinzhou District, Tianshui City",Gansu,China,1.0,34.40163,105.6275,admin3
+5130.0,94.0,female,"Maiji District, Tianshui City",Gansu,China,1.0,34.415,106.1453,admin3
+5160.0,29.0,female,Binh Xuyen District,Vinh Phuc,Vietnam,1.0,21.318168,105.6661,admin2
+5161.0,72.0,female,"Block 1, Site 11, Whampao Garden",Hong Kong,China,1.0,22.304412699999997,114.1870613,point
+5168.0,48.0,female,"Chaoyang District, Changchun City",Jilin,China,1.0,43.63143,125.2753,admin3
+5169.0,80.0,female,"Chaoyang District, Changchun City",Jilin,China,1.0,43.63143,125.2753,admin3
+5170.0,24.0,male,"Chaoyang District, Changchun City",Jilin,China,1.0,43.63143,125.2753,admin3
+5191.0,75.0,female,"Daozhen County, Zunyi City",Guizhou,China,1.0,28.93119,107.6062,admin3
+5192.0,36.0,female,"Daozhen County, Zunyi City",Guizhou,China,1.0,28.93119,107.6062,admin3
+5193.0,10.0,male,"Daozhen County, Zunyi City",Guizhou,China,1.0,28.93119,107.6062,admin3
+5199.0,47.0,male,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+5200.0,34.0,female,"Fengman District, Jilin City",Jilin,China,1.0,43.66168,126.6818,admin3
+5299.0,41.0,male,"Jiangkou County, Tongren City",Guizhou,China,1.0,27.72673,108.7685,admin3
+5345.0,42.0,male,"Luyuan District, Changchun City",Jilin,China,1.0,43.86477,125.1516,admin3
+5381.0,53.0,male,"Nanming District, Guiyang City",Guizhou,China,1.0,26.54928,106.7187,admin3
+5432.0,57.0,female,San Benito County,California,United States,1.0,36.60637,-121.075,admin2
+5433.0,57.0,male,San Benito County,California,United States,1.0,36.60637,-121.075,admin2
+5557.0,30.0,male,"Tiexi District, Siping City",Jilin,China,1.0,43.185390000000005,124.3406,admin3
+5558.0,81.0,male,"Tiexi District, Siping City",Jilin,China,1.0,43.185390000000005,124.3406,admin3
+5559.0,32.0,male,"Tiexi District, Siping City",Jilin,China,1.0,43.185390000000005,124.3406,admin3
+5564.0,24.0,male,"Wanshan District, Tongren City",Guizhou,China,1.0,27.526759999999996,109.2596,admin3
+5565.0,56.0,female,"Wanshan District, Tongren City",Guizhou,China,1.0,27.526759999999996,109.2596,admin3
+5597.0,52.0,female,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5598.0,47.0,female,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5599.0,54.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5600.0,50.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5601.0,50.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5658.0,49.0,female,Zhongshan City,Guangdong,China,1.0,22.52105,113.3859,admin2
+5760.0,35.0,female,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5761.0,37.0,female,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5762.0,24.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+5763.0,50.0,female,Baoji City,Shaanxi,China,1.0,34.38244,107.2001,admin2
+5764.0,76.0,female,Tongchuan City,Shaanxi,China,1.0,35.19603,109.0307,admin2
+5765.0,38.0,male,Weinan City,Shaanxi,China,1.0,34.955529999999996,109.8585,admin2
+5766.0,47.0,male,Ankang City,Shaanxi,China,1.0,32.761829999999996,108.9258,admin2
+5777.0,56.0,female,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+5778.0,32.0,female,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+5779.0,42.0,female,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+5780.0,66.0,female,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+5781.0,36.0,female,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+5782.0,37.0,female,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+5783.0,46.0,female,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+5784.0,43.0,male,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+6042.0,33.0,female,Xining City,Qinghai,China,1.0,36.82615,101.4437,admin2
+6043.0,43.0,male,Xining City,Qinghai,China,1.0,36.82615,101.4437,admin2
+6044.0,42.0,female,Xining City,Qinghai,China,1.0,36.82615,101.4437,admin2
+6045.0,26.0,male,"Menyuan County, Haibei Prefecture",Qinghai,China,1.0,37.42092,101.7543,admin3
+6130.0,41.0,male,None,Selangor,Malaysia,1.0,3.27094,101.4988,admin1
+6131.0,63.0,male,Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,1.0,3.139,101.6869,point
+6132.0,59.0,male,None,Macau,China,1.0,22.158910000000002,113.5611,admin1
+6133.0,29.0,female,None,Macau,China,1.0,22.158910000000002,113.5611,admin1
+6135.0,30.0,male,"Minh Quang commune, Tam Dao District",Vinh Phuc,Vietnam,1.0,0.0,0.0,None
+6148.0,60.0,male,Kwun Tong,Hong Kong,China,1.0,22.315,114.225,point
+6149.0,64.0,female,None,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+6150.0,42.0,female,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,1.0,21.276162,105.67881200000001,point
+6152.0,8.0,male,Gold Coast,Queensland,Australia,1.0,-28.0167,153.4,point
+6179.0,29.0,male,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+6180.0,69.0,female,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+6181.0,9.0,male,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+6182.0,61.0,male,Tianjin City,Tianjin,China,1.0,39.297129999999996,117.3333,admin2
+6183.0,51.0,male,"High Tech Zone, Weibin District, Baoji City",Shaanxi,China,1.0,34.345903,107.27122320000001,point
+6184.0,27.0,female,"Hezhang County, Bijie City",Guizhou,China,1.0,27.132990000000003,104.6293,admin3
+6185.0,29.0,male,"Hezhang County, Bijie City",Guizhou,China,1.0,27.132990000000003,104.6293,admin3
+6186.0,56.0,female,"Dafang County, Bijie City",Guizhou,China,1.0,27.227520000000002,105.6869,admin3
+6187.0,20.0,female,"Dafang County, Bijie City",Guizhou,China,1.0,27.227520000000002,105.6869,admin3
+6195.0,64.0,female,"Danfeng County, Shangluo City",Shaanxi,China,1.0,33.68015,110.4319,admin3
+6196.0,65.0,male,"Danfeng County, Shangluo City",Shaanxi,China,1.0,33.68015,110.4319,admin3
+6200.0,61.0,female,"Nanming District, Guiyang City",Guizhou,China,1.0,26.54928,106.7187,admin3
+6201.0,53.0,female,"Nanming District, Guiyang City",Guizhou,China,1.0,26.54928,106.7187,admin3
+6211.0,27.0,male,"Guiding County, Qiannan Prefecture",Guizhou,China,1.0,26.43055,107.1928,admin3
+6212.0,42.0,male,Qianxinan Prefecture,Guizhou,China,1.0,25.267139999999998,105.4632,admin2
+6213.0,56.0,male,"Qishan County, Baoji City",Shaanxi,China,1.0,34.40641,107.6779,admin3
+6215.0,49.0,male,Shangluo City,Shaanxi,China,1.0,33.6493,109.9016,admin2
+6226.0,65.0,female,"Weiyang District, Xi'an City",Shaanxi,China,1.0,34.34604,108.9099,admin3
+6230.0,52.0,male,"Hu County, Xi'an City",Shaanxi,China,1.0,34.001,108.5816,admin3
+6231.0,33.0,male,Xianyang City,Shaanxi,China,1.0,34.78867,108.3897,admin2
+6232.0,41.0,female,Xianyang City,Shaanxi,China,1.0,34.78867,108.3897,admin2
+6237.0,51.0,male,"Baqiao District, Xi'an City",Shaanxi,China,1.0,34.3024,109.0889,admin3
+6238.0,37.0,male,"Baqiao District, Xi'an City",Shaanxi,China,1.0,34.3024,109.0889,admin3
+6240.0,41.0,male,"Yangling District, Xianyang City",Shaanxi,China,1.0,34.2851,108.0477,admin3
+6241.0,45.0,female,"Yanta District, Xi'an City",Shaanxi,China,1.0,34.20667,108.9416,admin3
+6243.0,41.0,male,"Zhenba County, Hanzhong City",Shaanxi,China,1.0,32.51348,107.8716,admin3
+6244.0,30.0,male,Zunyi City,Guizhou,China,1.0,28.171429999999997,107.0848,admin2
+6245.0,25.0,male,To Kwa Wan,Hong Kong,China,1.0,22.319557999999997,114.187767,point
+6261.0,27.0,female,"Baihe County, Ankang City",Shaanxi,China,1.0,32.72665,109.9065,admin3
+6262.0,51.0,female,"Baihe County, Ankang City",Shaanxi,China,1.0,32.72665,109.9065,admin3
+6263.0,66.0,female,Baodi District,Tianjin,China,1.0,39.60828,117.4002,admin3
+6264.0,51.0,female,Baodi District,Tianjin,China,1.0,39.60828,117.4002,admin3
+6265.0,65.0,male,Baodi District,Tianjin,China,1.0,39.60828,117.4002,admin3
+6319.0,49.0,male,"Beilin District, Xi'an City",Shaanxi,China,1.0,34.24815,108.9538,admin3
+6346.0,23.0,female,Bijie City,Guizhou,China,1.0,27.06873,105.2156,admin2
+6347.0,51.0,male,Bijie City,Guizhou,China,1.0,27.06873,105.2156,admin2
+6348.0,49.0,female,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,1.0,21.276162,105.67881200000001,point
+6349.0,16.0,female,Binh Xuyen District,Vinh Phuc,Vietnam,1.0,21.318168,105.6661,admin2
+6352.0,60.0,female,Cebu City,Cebu,Philippines,1.0,10.37893,123.7763,point
+6353.0,64.0,female,Kowloon,Hong Kong,China,1.0,22.319751,114.18611999999999,point
+6378.0,60.0,female,"Qiziwan, Changjiang County",Hainan,China,1.0,19.361245,108.8609777,point
+6379.0,62.0,female,Changjiang County,Hainan,China,1.0,19.21995,108.9977,admin3
+6441.0,77.0,female,"Chengguan District, Lanzhou City",Gansu,China,1.0,36.07809,103.8756,admin3
+6442.0,69.0,male,"Chengguan District, Lanzhou City",Gansu,China,1.0,36.07809,103.8756,admin3
+6455.0,49.0,male,"Chongzhi Road, Chaoyang District, Changchun City",Jilin,China,1.0,43.8880385,125.0131055,point
+6456.0,12.0,female,Chuxiong Prefecture,Yunnan,China,1.0,25.35525,101.569,admin2
+6457.0,15.0,male,Dali Prefecture,Yunnan,China,1.0,25.73038,100.037,admin2
+6458.0,46.0,male,Dali Prefecture,Yunnan,China,1.0,25.73038,100.037,admin2
+6491.0,60.0,male,"Dingbian County, Yulin City",Shaanxi,China,1.0,37.37923,107.7436,admin3
+6511.0,54.0,female,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+6512.0,62.0,male,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+6513.0,60.0,female,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+6514.0,45.0,female,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+6587.0,37.0,female,Gold Coast,Queensland,Australia,1.0,-28.0167,153.4,point
+6588.0,37.0,male,Gold Coast,Queensland,Australia,1.0,-28.0167,153.4,point
+6590.0,31.0,female,"Yanji City, Yanbian Prefecture",Jilin,China,1.0,43.051,129.4579,admin3
+6679.0,33.0,female,Guiyang City,Guizhou,China,1.0,26.84311,106.7064,admin2
+6680.0,56.0,male,Guiyang City,Guizhou,China,1.0,26.84311,106.7064,admin2
+6681.0,54.0,female,Guiyang City,Guizhou,China,1.0,26.84311,106.7064,admin2
+6682.0,38.0,male,Guri City,Gyeonggi,South Korea,1.0,37.6,127.15,point
+6687.0,52.0,female,"Haibowan District, Wuhai City",Inner Mongolia,China,1.0,39.74473,106.8838,admin3
+6690.0,69.0,male,Haikou City,Hainan,China,1.0,19.83166,110.4222,admin2
+6691.0,32.0,female,Haikou City,Hainan,China,1.0,19.83166,110.4222,admin2
+6739.0,55.0,female,"Feixi County, Hefei City",Anhui,China,1.0,31.72762,117.0201,admin3
+6740.0,48.0,female,"Yaohai District, Hefei City",Anhui,China,1.0,31.89544,117.3384,admin3
+6741.0,43.0,female,"Xinzhan District, Hefei City",Anhui,China,1.0,31.8947345,117.3260293,point
+6742.0,35.0,male,"Shushan District, Hefei City",Anhui,China,1.0,31.82562,117.2001,admin3
+6743.0,29.0,male,"Shushan District, Hefei City",Anhui,China,1.0,31.82562,117.2001,admin3
+6744.0,51.0,male,"Lujiang County, Hefei City",Anhui,China,1.0,31.269679999999997,117.32,admin3
+6745.0,35.0,male,"Luyang District, Hefei City",Anhui,China,1.0,31.92046,117.1894,admin3
+6746.0,28.0,female,"Xinzhan District, Hefei City",Anhui,China,1.0,31.8947345,117.3260293,point
+6747.0,78.0,female,"Xinzhan District, Hefei City",Anhui,China,1.0,31.8947345,117.3260293,point
+6748.0,38.0,female,"Xinzhan District, Hefei City",Anhui,China,1.0,31.8947345,117.3260293,point
+6749.0,36.0,male,"Luyang District, Hefei City",Anhui,China,1.0,31.92046,117.1894,admin3
+6766.0,56.0,male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+6769.0,55.0,female,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+6770.0,63.0,female,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+6771.0,65.0,female,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+6772.0,68.0,male,"Honggu District, Lanzhou City",Gansu,China,1.0,36.275659999999995,103.1088,admin3
+6887.0,46.0,male,"Jiutai District, Changchun City",Jilin,China,1.0,44.201609999999995,125.9723,admin3
+6902.0,48.0,female,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+6903.0,45.0,male,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+6904.0,47.0,male,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+6915.0,83.0,female,"Lianhu District, Xi'an City",Shaanxi,China,1.0,34.27251,108.8962,admin3
+6916.0,66.0,female,"Lianhu District, Xi'an City",Shaanxi,China,1.0,34.27251,108.8962,admin3
+6930.0,35.0,female,"Lianhu District, Xi'an City",Shaanxi,China,1.0,34.27251,108.8962,admin3
+6944.0,47.0,male,"Longshan District, Liaoyuan City",Jilin,China,1.0,42.85802,125.1521,admin3
+6945.0,8.0,female,"Longshan District, Liaoyuan City",Jilin,China,1.0,42.85802,125.1521,admin3
+6946.0,51.0,female,"Longxi County, Dingxi City",Gansu,China,1.0,35.10665,104.6236,admin3
+7001.0,52.0,female,"Maiji District, Tianshui City",Gansu,China,1.0,34.415,106.1453,admin3
+7160.0,60.0,female,"Qinzhou District, Tianshui City",Gansu,China,1.0,34.40163,105.6275,admin3
+7161.0,59.0,male,Qionghai City,Hainan,China,1.0,19.20959,110.4018,admin3
+7163.0,22.0,female,Qujing City,Yunnan,China,1.0,25.70936,103.9368,admin2
+7394.0,45.0,female,"Tiexi District, Siping City",Jilin,China,1.0,43.185390000000005,124.3406,admin3
+7406.0,65.0,male,"Baimajing Town, Danzhou City",Hainan,China,1.0,19.6964266,109.2099792,point
+7413.0,50.0,male,"Weiyang District, Xi'an City",Shaanxi,China,1.0,34.34604,108.9099,admin3
+7414.0,77.0,female,"Weiyang District, Xi'an City",Shaanxi,China,1.0,34.34604,108.9099,admin3
+7415.0,48.0,male,"Weiyang District, Xi'an City",Shaanxi,China,1.0,34.34604,108.9099,admin3
+7416.0,49.0,male,Wenchang City,Hainan,China,1.0,19.74459,110.771,admin3
+7506.0,66.0,male,"Xincheng District, Xi'an City",Shaanxi,China,1.0,34.27348,108.9863,admin3
+7507.0,47.0,male,"Xincheng District, Xi'an City",Shaanxi,China,1.0,34.27348,108.9863,admin3
+7508.0,43.0,female,"Xincheng District, Xi'an City",Shaanxi,China,1.0,34.27348,108.9863,admin3
+7594.0,67.0,female,"Baqiao District, Xi'an City",Shaanxi,China,1.0,34.3024,109.0889,admin3
+7598.0,33.0,male,"Xixian New District, Xi'an City",Shaanxi,China,1.0,34.316190999999996,108.85,point
+7621.0,53.0,female,"Yanliang District, Xi'an City",Shaanxi,China,1.0,34.661120000000004,109.2917,admin3
+7622.0,50.0,female,"Yanta District, Xi'an City",Shaanxi,China,1.0,34.20667,108.9416,admin3
+7670.0,60.0,male,Lam Tin,Hong Kong,China,1.0,22.307989000000003,114.234404,point
+7702.0,62.0,female,"Zhenba County, Hanzhong City",Shaanxi,China,1.0,32.51348,107.8716,admin3
+7703.0,42.0,male,"Dongfeng County, Liaoyuan City",Jilin,China,1.0,42.675540000000005,125.4418,admin3
+7704.0,41.0,female,"Dongfeng County, Liaoyuan City",Jilin,China,1.0,42.675540000000005,125.4418,admin3
+7744.0,49.0,female,"Zhongshan District, Liupanshui City",Guizhou,China,1.0,26.648809999999997,104.8231,admin3
+7812.0,41.0,female,ROK Capital Hospital,Seoul,South Korea,1.0,37.566666999999995,126.96666699999999,point
+7875.0,64.0,female,None,Tianjin,China,1.0,39.297129999999996,117.3333,admin1
+7876.0,35.0,female,None,Tianjin,China,1.0,39.297129999999996,117.3333,admin1
+7877.0,75.0,male,None,Tianjin,China,1.0,39.297129999999996,117.3333,admin1
+7878.0,61.0,female,None,Tianjin,China,1.0,39.297129999999996,117.3333,admin1
+7885.0,20.0,female,Gwangju 21st Century Hospital,Seoul,South Korea,1.0,37.485159,127.01529099999999,point
+8130.0,43.0,female,Changchun City,Jilin,China,1.0,44.38803,125.76899999999999,admin2
+8131.0,49.0,female,Changchun City,Jilin,China,1.0,44.38803,125.76899999999999,admin2
+8132.0,24.0,male,Changchun City,Jilin,China,1.0,44.38803,125.76899999999999,admin2
+8133.0,39.0,female,Yanbian Prefecture,Jilin,China,1.0,43.14674,129.1295,admin2
+8134.0,11.0,female,Siping City,Jilin,China,1.0,43.57227,124.4702,admin2
+8135.0,45.0,female,Tonghua City,Jilin,China,1.0,41.96159,125.9505,admin2
+8346.0,65.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+8347.0,21.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+8348.0,64.0,female,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+8349.0,63.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+8350.0,53.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+8351.0,39.0,male,Xi'an City,Shaanxi,China,1.0,34.10727,108.7872,admin2
+8352.0,71.0,male,Baoji City,Shaanxi,China,1.0,34.38244,107.2001,admin2
+8353.0,45.0,female,Baoji City,Shaanxi,China,1.0,34.38244,107.2001,admin2
+8354.0,27.0,female,Tongchuan City,Shaanxi,China,1.0,35.19603,109.0307,admin2
+8355.0,42.0,male,Hanzhong City,Shaanxi,China,1.0,33.0928,107.1014,admin2
+8356.0,25.0,male,Shangluo City,Shaanxi,China,1.0,33.6493,109.9016,admin2
+8487.0,84.0,female,Zunyi City,Guizhou,China,1.0,28.171429999999997,107.0848,admin2
+8489.0,68.0,male,Zunyi City,Guizhou,China,1.0,28.171429999999997,107.0848,admin2
+8490.0,49.0,male,Bijie City,Guizhou,China,1.0,27.06873,105.2156,admin2
+8491.0,24.0,female,Bijie City,Guizhou,China,1.0,27.06873,105.2156,admin2
+8492.0,21.0,male,Bijie City,Guizhou,China,1.0,27.06873,105.2156,admin2
+8493.0,55.0,male,Bijie City,Guizhou,China,1.0,27.06873,105.2156,admin2
+8494.0,33.0,male,Qianxinan Prefecture,Guizhou,China,1.0,25.267139999999998,105.4632,admin2
+8495.0,63.0,female,Zunyi City,Guizhou,China,1.0,28.171429999999997,107.0848,admin2
+8496.0,30.0,female,Guiyang City,Guizhou,China,1.0,26.84311,106.7064,admin2
+8497.0,64.0,male,"Guiding County, Qiannan Prefecture",Guizhou,China,1.0,26.43055,107.1928,admin3
+8498.0,38.0,female,Guiyang City,Guizhou,China,1.0,26.84311,106.7064,admin2
+8499.0,35.0,female,Guiyang City,Guizhou,China,1.0,26.84311,106.7064,admin2
+8744.0,49.0,male,Starnberg,Bavaria,Germany,1.0,47.99722,11.34056,point
+8904.0,42.0,female,"Longxi County, Dingxi City",Gansu,China,1.0,35.10665,104.6236,admin3
+8905.0,26.0,female,"Longxi County, Dingxi City",Gansu,China,1.0,35.10665,104.6236,admin3
+8906.0,37.0,male,"Baiyin District, Baiyin City",Gansu,China,1.0,36.56493,104.1535,admin3
+8907.0,24.0,male,"Ningxian County, Qingyang City",Gansu,China,1.0,35.565909999999995,108.1031,admin3
+8908.0,41.0,male,Gannan Prefecture,Gansu,China,1.0,34.33256,102.7657,admin2
+8914.0,54.0,female,"Longxi County, Dingxi City",Gansu,China,1.0,35.10665,104.6236,admin3
+8915.0,29.0,female,"Longxi County, Dingxi City",Gansu,China,1.0,35.10665,104.6236,admin3
+8916.0,38.0,female,"Longxi County, Dingxi City",Gansu,China,1.0,35.10665,104.6236,admin3
+8917.0,29.0,male,"Huating County, Pingliang City",Gansu,China,1.0,35.20198,106.5993,admin3
+8918.0,58.0,female,Gannan Prefecture,Gansu,China,1.0,34.33256,102.7657,admin2
+8919.0,41.0,female,Gannan Prefecture,Gansu,China,1.0,34.33256,102.7657,admin2
+8920.0,56.0,male,Gannan Prefecture,Gansu,China,1.0,34.33256,102.7657,admin2
+8921.0,68.0,male,"Maiji District, Tianshui City",Gansu,China,1.0,34.415,106.1453,admin3
+8922.0,55.0,female,"Maiji District, Tianshui City",Gansu,China,1.0,34.415,106.1453,admin3
+8923.0,27.0,female,"Huating County, Pingliang City",Gansu,China,1.0,35.20198,106.5993,admin3
+8924.0,1.0,female,"Huating County, Pingliang City",Gansu,China,1.0,35.20198,106.5993,admin3
+8925.0,46.0,female,"Xigu District, Lanzhou City",Gansu,China,1.0,36.12968,103.51899999999999,admin3
+8926.0,55.0,female,"Huating County, Pingliang City",Gansu,China,1.0,35.20198,106.5993,admin3
+8927.0,33.0,female,"Huating County, Pingliang City",Gansu,China,1.0,35.20198,106.5993,admin3
+8928.0,23.0,male,"Zhuanglang County, Pingliang City",Gansu,China,1.0,35.25054,106.0543,admin3
+8929.0,27.0,female,"Qingcheng County, Qingyang City",Gansu,China,1.0,36.04074,107.6714,admin3
+8933.0,53.0,female,Gannan Prefecture,Gansu,China,1.0,34.33256,102.7657,admin2
+8934.0,34.0,female,"Huating County, Pingliang City",Gansu,China,1.0,35.20198,106.5993,admin3
+8935.0,79.0,female,"Longxi County, Dingxi City",Gansu,China,1.0,35.10665,104.6236,admin3
+8936.0,58.0,female,"Hezuo City, Gannan Prefecture",Gansu,China,1.0,34.99238,103.0791,admin3
+8937.0,57.0,male,"Chengguan District, Lanzhou City",Gansu,China,1.0,36.07809,103.8756,admin3
+8938.0,45.0,female,"Hezuo City, Gannan Prefecture",Gansu,China,1.0,34.99238,103.0791,admin3
+8939.0,67.0,male,Baiyin City,Gansu,China,1.0,36.61864,104.6208,admin2
+8940.0,33.0,male,"Jingyuan County, Baiyin City",Gansu,China,1.0,36.72572,104.7303,admin3
+8941.0,40.0,female,"Xigu District, Lanzhou City",Gansu,China,1.0,36.12968,103.51899999999999,admin3
+8942.0,49.0,male,"Qilihe District, Lanzhou City",Gansu,China,1.0,35.96467,103.7711,admin3
+8943.0,29.0,male,"Xigu District, Lanzhou City",Gansu,China,1.0,36.12968,103.51899999999999,admin3
+8944.0,47.0,male,"Xigu District, Lanzhou City",Gansu,China,1.0,36.12968,103.51899999999999,admin3
+8945.0,54.0,male,"Huating County, Pingliang City",Gansu,China,1.0,35.20198,106.5993,admin3
+9152.0,60.0,male,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+9180.0,65.0,male,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+9181.0,38.0,female,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+9188.0,26.0,male,Liupanshui City,Guizhou,China,1.0,26.136229999999998,104.8908,admin2
+9189.0,87.0,male,Tongren City,Guizhou,China,1.0,27.973740000000003,108.5408,admin2
+9190.0,27.0,male,"Tianzhu County, Qiandongnan Prefecture",Guizhou,China,1.0,26.92336,109.2523,admin3
+9191.0,4.0,female,Guiyang City,Guizhou,China,1.0,26.84311,106.7064,admin2
+9192.0,50.0,female,Guiyang City,Guizhou,China,1.0,26.84311,106.7064,admin2
+9193.0,39.0,female,None,Guizhou,China,1.0,26.829420000000002,106.8782,admin1
+9194.0,2.0,male,"Huaxi District, Guiyang City",Guizhou,China,1.0,26.3924,106.6603,admin3
+9195.0,84.0,female,Zunyi City,Guizhou,China,1.0,28.171429999999997,107.0848,admin2
+9199.0,21.0,male,Bijie City,Guizhou,China,1.0,27.06873,105.2156,admin2
+9200.0,55.0,male,Bijie City,Guizhou,China,1.0,27.06873,105.2156,admin2
+9201.0,49.0,male,Bijie City,Guizhou,China,1.0,27.06873,105.2156,admin2
+9202.0,33.0,male,Qianxinan Prefecture,Guizhou,China,1.0,25.267139999999998,105.4632,admin2
+9203.0,21.0,female,"Siduju, Siduzhen, Huichuan District, Zunyi City",Guizhou,China,1.0,27.913562699999996,106.9365138,point
+9204.0,26.0,male,"Siduju, Siduzhen, Huichuan District, Zunyi City",Guizhou,China,1.0,27.913562699999996,106.9365138,point
+9205.0,64.0,female,"Siduju, Siduzhen, Huichuan District, Zunyi City",Guizhou,China,1.0,27.913562699999996,106.9365138,point
+9206.0,73.0,female,Seongnam-si,Gyeonggi,South Korea,1.0,37.4449,127.1389,point
+9244.0,51.0,female,Wanning City,Hainan,China,1.0,18.83795,110.2876,admin3
+9670.0,51.0,male,Tsing Yi,Hong Kong,China,1.0,22.3445126,114.06331170000001,point
+9671.0,43.0,male,None,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+9672.0,67.0,female,Quarry Bay,Hong Kong,China,1.0,22.2859106,114.20686780000001,point
+9673.0,37.0,male,Wan Chai,Hong Kong,China,1.0,22.2773596,114.16524809999999,point
+9674.0,41.0,female,Shek O,Hong Kong,China,1.0,22.2333433,114.20766370000001,point
+9677.0,25.0,male,Sha Tin,Hong Kong,China,1.0,22.388813600000002,114.16455309999999,point
+9678.0,54.0,male,Quarry Bay,Hong Kong,China,1.0,22.2859106,114.20686780000001,point
+9861.0,50.0,male,Baotou City,Inner Mongolia,China,1.0,41.56212,110.2561,admin2
+9862.0,61.0,female,Tongliao City,Inner Mongolia,China,1.0,43.84315,121.5555,admin2
+10242.0,66.0,male,"Zhenlai County, Baicheng City",Jilin,China,1.0,45.94814,123.4396,admin3
+10243.0,27.0,female,"Longshan District, Liaoyuan City",Jilin,China,1.0,42.85802,125.1521,admin3
+10244.0,17.0,male,"Gongzhuling City, Siping City",Jilin,China,1.0,43.78353,124.6729,admin3
+10245.0,51.0,female,"Gongzhuling City, Siping City",Jilin,China,1.0,43.78353,124.6729,admin3
+10246.0,68.0,male,Changchun City,Jilin,China,1.0,44.38803,125.76899999999999,admin2
+10247.0,26.0,male,Changchun City,Jilin,China,1.0,44.38803,125.76899999999999,admin2
+10248.0,30.0,male,Changchun City,Jilin,China,1.0,44.38803,125.76899999999999,admin2
+10249.0,53.0,female,Changchun City,Jilin,China,1.0,44.38803,125.76899999999999,admin2
+10250.0,35.0,male,Changchun City,Jilin,China,1.0,44.38803,125.76899999999999,admin2
+10251.0,27.0,female,Siping City,Jilin,China,1.0,43.57227,124.4702,admin2
+10252.0,28.0,male,Siping City,Jilin,China,1.0,43.57227,124.4702,admin2
+10253.0,58.0,female,Tonghua City,Jilin,China,1.0,41.96159,125.9505,admin2
+10254.0,33.0,female,"Meihekou City, Tonghua City",Jilin,China,1.0,42.53434,125.7108,admin3
+10266.0,33.0,male,"Pixel Park, Economic Development Zone, Jinkai District, Changchun City",Jilin,China,1.0,43.8479468,125.4124047,point
+10267.0,50.0,male,"Dongliao County, Liaoyuan City",Jilin,China,1.0,42.94445,125.1762,admin3
+10268.0,33.0,female,"Pixel Park, Economic Development Zone, Jinkai District, Changchun City",Jilin,China,1.0,43.8479468,125.4124047,point
+10269.0,45.0,male,"Shuangliao City, Siping City",Jilin,China,1.0,43.759479999999996,123.6956,admin3
+10270.0,24.0,male,"Tiexi District, Siping City",Jilin,China,1.0,43.185390000000005,124.3406,admin3
+10271.0,88.0,male,"Dashun Community, Dongling South Street, Nanguan District, Changchun City",Jilin,China,1.0,43.8402475,125.3458459,point
+10272.0,29.0,female,Changchun City,Jilin,China,1.0,44.38803,125.76899999999999,admin2
+10273.0,21.0,female,"Aegean Bay, Oriental Plaza, Economic Development Zone, Changchun",Jilin,China,1.0,43.8813038,125.42781140000001,point
+10274.0,78.0,female,"Dashun Community, Dongling South Street, Nanguan District, Changchun City",Jilin,China,1.0,43.8402475,125.3458459,point
+10275.0,52.0,male,Changchun City,Jilin,China,1.0,44.38803,125.76899999999999,admin2
+10276.0,60.0,female,"Sunac City, Shangcheng, Changchun City",Jilin,China,1.0,43.8296097,125.2592395,point
+10548.0,50.0,male,Yokohama Port,Kanagawa Prefecture,Japan,1.0,35.45085,139.6651,point
+10648.0,60.0,male,Yokohama,Kanagawa Prefecture,Japan,1.0,35.45085,139.6651,point
+10674.0,29.0,male,"Luzzara, Reggio Emilia",Emilia-Romagna,Italy,1.0,44.95971,10.689219999999999,point
+10687.0,82.0,female,"Ziyang County, Ankang City",Shaanxi,China,1.0,32.44509,108.4337,admin3
+10919.0,29.0,female,"Thien Ke commune, Binh Xuyen District",Vinh Phuc,Vietnam,1.0,21.3273973,105.63005009999999,point
+10920.0,55.0,female,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,1.0,21.276162,105.67881200000001,point
+10922.0,50.0,male,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,1.0,21.276162,105.67881200000001,point
+10940.0,33.0,male,Zhaotong City,Yunnan,China,1.0,27.65652,104.0039,admin2
+10941.0,7.0,male,None,Yunnan,China,1.0,25.01087,101.4838,admin1
+10942.0,33.0,male,Zhaotong City,Yunnan,China,1.0,27.65652,104.0039,admin2
+10943.0,7.0,male,Zhaotong City,Yunnan,China,1.0,27.65652,104.0039,admin2
+10944.0,44.0,male,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+10945.0,69.0,female,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+10946.0,16.0,female,Wenshan Zhuang and Miao Autonomous Prefecture,Yunnan,China,1.0,23.69131,104.7145,admin2
+10947.0,47.0,female,"Gejiu City, Honghe Prefecture",Yunnan,China,1.0,23.30956,103.1373,admin3
+10948.0,35.0,female,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+10949.0,8.0,male,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+10950.0,43.0,male,Dali Prefecture,Yunnan,China,1.0,25.73038,100.037,admin2
+10951.0,10.0,male,Dali Prefecture,Yunnan,China,1.0,25.73038,100.037,admin2
+10952.0,55.0,female,Qujing City,Yunnan,China,1.0,25.70936,103.9368,admin2
+10953.0,47.0,male,"Gejiu City, Honghe Prefecture",Yunnan,China,1.0,23.30956,103.1373,admin3
+10954.0,25.0,male,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+10955.0,47.0,female,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+10956.0,38.0,male,Zhaotong City,Yunnan,China,1.0,27.65652,104.0039,admin2
+10957.0,30.0,female,Zhaotong City,Yunnan,China,1.0,27.65652,104.0039,admin2
+10958.0,26.0,female,Zhaotong City,Yunnan,China,1.0,27.65652,104.0039,admin2
+10959.0,47.0,male,Zhaotong City,Yunnan,China,1.0,27.65652,104.0039,admin2
+10960.0,42.0,male,Zhaotong City,Yunnan,China,1.0,27.65652,104.0039,admin2
+10961.0,34.0,female,Honghe Prefecture,Yunnan,China,1.0,23.44225,103.036,admin2
+10962.0,62.0,female,"Tengchong City, Baoshan City",Yunnan,China,1.0,25.2764,98.49303,admin3
+10963.0,39.0,male,Dali Prefecture,Yunnan,China,1.0,25.73038,100.037,admin2
+11171.0,24.0,male,National Medical Center,Seoul,South Korea,1.0,37.56767,127.0057,point
+11186.0,31.0,male,None,Selangor,Malaysia,1.0,3.27094,101.4988,admin1
+11270.0,39.0,female,Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,1.0,3.139,101.6869,point
+11280.0,30.0,male,None,Kanagawa Prefecture,Japan,1.0,35.41557,139.339,admin1
+11293.0,70.0,male,None,Tokyo,Japan,1.0,35.71145,139.4468,admin1
+11298.0,65.0,female,Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,1.0,3.139,101.6869,point
+11300.0,57.0,female,National Medical Center,Seoul,South Korea,1.0,37.56767,127.0057,point
+11307.0,27.0,male,Hospital Sultanah Bahiyah,Kedah,Malaysia,1.0,6.1505669,100.40413649999999,point
+11316.0,82.0,male,Seoul,Seoul,South Korea,1.0,37.56667,126.9667,point
+11422.0,65.0,male,Haikou City,Hainan,China,1.0,19.83166,110.4222,admin2
+11423.0,58.0,female,Haikou City,Hainan,China,1.0,19.83166,110.4222,admin2
+11424.0,73.0,male,Chengmai County,Hainan,China,1.0,19.691679999999998,109.9864,admin3
+11486.0,69.0,male,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+11493.0,24.0,female,Kunming City,Yunnan,China,1.0,25.39236,102.8739,admin2
+11512.0,38.0,male,Codogno,Lombardia,Italy,1.0,45.1611,9.701432,point
+11525.0,77.0,female,Codogno,Lombardia,Italy,1.0,45.1611,9.701432,point
+11526.0,78.0,male,Vo Euganeo,Veneto,Italy,1.0,45.2977477,11.6583815,point
+11528.0,68.0,female,Cremona,Lombardia,Italy,1.0,0.0,0.0,None
+11539.0,45.0,female,Beirut,Beirut,Lebanon,1.0,33.88694,35.513059999999996,point
+11836.0,78.0,male,San Raffaelle,Lombardia,Italy,1.0,45.516119700000004,8.845903199999999,point
+11838.0,40.0,male,Torino,Piemonte,Italy,1.0,45.0702959,7.530001400000001,point
+11865.0,96.0,female,Tin Hau,Hong Kong,China,1.0,22.2826304,114.18812109999999,point
+11911.0,10.0,male,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+11926.0,62.0,male,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+11927.0,52.0,female,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+11956.0,43.0,male,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+11970.0,44.0,female,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+11971.0,55.0,female,Fangchenggang City,Guangxi,China,1.0,21.88401,107.9967,admin2
+12000.0,20.0,female,None,Taiwan,None,1.0,23.75947,120.9559,admin1
+12001.0,40.0,female,None,Taiwan,None,1.0,23.75947,120.9559,admin1
+12016.0,28.0,female,Jincheng City,Shanxi,China,1.0,35.61116,112.7069,admin2
+12018.0,43.0,female,Nanjing City,Jiangsu,China,1.0,31.92997,118.8424,admin2
+12019.0,32.0,female,Changzhou City,Jiangsu,China,1.0,31.62592,119.6369,admin2
+12022.0,63.0,female,"Ji'an City, Tonghua City",Jilin,China,1.0,41.24388,125.9869,admin3
+12023.0,64.0,male,"Ji'an City, Tonghua City",Jilin,China,1.0,41.24388,125.9869,admin3
+12028.0,22.0,female,Haeundae,Busan,South Korea,1.0,35.161944,129.16388899999998,admin3
+12029.0,24.0,female,Haeundae,Busan,South Korea,1.0,35.161944,129.16388899999998,admin3
+12031.0,53.0,male,Lanzhou City,Gansu,China,1.0,36.351259999999996,103.6554,admin2
+12032.0,68.0,male,Tianshui City,Gansu,China,1.0,34.64971,105.7378,admin2
+12034.0,57.0,male,"Chengguan District, Lanzhou City",Gansu,China,1.0,36.07809,103.8756,admin3
+12035.0,50.0,female,"Lixian County, Longnan City",Gansu,China,1.0,34.10804,105.0565,admin3
+12036.0,51.0,male,"Lixian County, Longnan City",Gansu,China,1.0,34.10804,105.0565,admin3
+12037.0,52.0,female,"Qilihe District, Lanzhou City",Gansu,China,1.0,35.96467,103.7711,admin3
+12038.0,41.0,male,"Chengguan District, Lanzhou City",Gansu,China,1.0,36.07809,103.8756,admin3
+12043.0,33.0,female,"Yongdeng County, Lanzhou City",Gansu,China,1.0,36.60351,103.2668,admin3
+12044.0,20.0,female,Linxia Prefecture,Gansu,China,1.0,35.63012,103.2798,admin2
+12051.0,62.0,male,Seville,Andalusia,Spain,1.0,37.386005,-5.983039,point
+12052.0,22.0,male,None,Catalonia,Spain,1.0,41.80377405,1.530936998,admin1
+12088.0,22.0,male,Karachi,Sindh,Pakistan,1.0,24.865704,67.016033,point
+12089.0,38.0,female,Thessaloniki,Macedonia,Greece,1.0,40.6192194,22.8924855,point
+12094.0,35.0,male,None,Herat,Afghanistan,1.0,34.341944,62.203056000000004,admin1
+12095.0,40.0,male,None,Taiwan,None,1.0,23.75947,120.9559,admin1
+12100.0,25.0,male,Goeppingen,Baden-Wuerttemberg,Germany,1.0,48.6972559,9.622706800000001,point
+12102.0,33.0,female,Paris,Ile-de-France,France,1.0,48.8566,2.3522,point
+12103.0,55.0,male,Annecy,Auvergne-Rhone-Alpes,France,1.0,45.889858600000004,6.0584621,point
+12104.0,55.0,male,Amiens,Hauts-de-France,France,1.0,49.8985408,2.2145972,point
+12105.0,36.0,male,Strasbourg,Grand Est,France,1.0,48.5688466,7.622951400000001,point
+12106.0,60.0,male,Paris,Ile-de-France,France,1.0,48.8566,2.3522,point
+12110.0,41.0,male,None,North Rhine-Westphalia,Germany,1.0,51.466667,7.55,admin1
+12112.0,47.0,male,Dusseldorf University Hospital,North Rhine-Westphalia,Germany,1.0,51.1974145,6.786892599999999,point
+12113.0,20.0,male,Prigoria,Gorj,Romania,1.0,45.066666999999995,23.683332999999998,point
+12538.0,21.0,Female,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+12539.0,16.0,Male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+12540.0,80.0,Male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+12542.0,33.0,Male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+12543.0,55.0,Female,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+12544.0,24.0,Male,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+12545.0,60.0,Female,Hong Kong,Hong Kong,China,1.0,22.38074,114.1324,admin 1
+12601.0,77.0,male,Beirut,Beirut,Lebanon,1.0,33.88694,35.513059999999996,point
+12619.0,54.0,female,Bamrasnaradura Hospital,Nonthaburi,Thailand,1.0,13.8538,100.5228,point
+12621.0,65.0,male,Bamrasnaradura Hospital,Nonthaburi,Thailand,1.0,13.8538,100.5228,point
+12622.0,62.0,female,Bamrasnaradura Hospital,Nonthaburi,Thailand,1.0,13.8538,100.5228,point
+12623.0,8.0,male,Bamrasnaradura Hospital,Nonthaburi,Thailand,1.0,13.8538,100.5228,point
+12626.0,29.0,male,Bamrasnaradura Hospital,Nonthaburi,Thailand,1.0,13.8538,100.5228,point
+12893.0,18.0,male,None,Castilla y Leon,Spain,1.0,41.76761231,-4.780516805,admin1
+12894.0,28.0,male,None,Castilla y Leon,Spain,1.0,41.76761231,-4.780516805,admin1
+12895.0,72.0,female,Alassio,Liguria,Italy,1.0,44.0,8.166667,point
+12896.0,54.0,male,La Spezia,Liguria,Italy,1.0,44.1,9.816667,point
+12897.0,43.0,male,Torricella,Puglia,Italy,1.0,40.354482,17.500312,point
+12898.0,4.0,female,Castiglione d'Adda,Lombardia,Italy,1.0,45.21667,9.683333,point
+12899.0,10.0,male,"Soresina, Cremona",Lombardia,Italy,1.0,45.287216,9.857652,point
+12900.0,10.0,male,"San Rocco al Porto, Lodi",Lombardia,Italy,1.0,45.15,9.7,point
+13295.0,24.0,female,"Caserta, Ruviano",Campania,Italy,1.0,41.216667,14.416667000000002,point
+13421.0,26.0,male,None,Aargau,Switzerland,1.0,47.083333,8.0,admin1
+13446.0,23.0,male,None,Basel,Switzerland,1.0,47.566666999999995,7.6,point
