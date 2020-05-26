@@ -1,3 +1,3 @@
 # Analysis-COVID19
 Analysis and Dashboarding of COVID19 data set 
-![]("https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6648220699448184832.jpg") 
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/Otd1tNKHWDI)
