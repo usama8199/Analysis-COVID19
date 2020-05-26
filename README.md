@@ -9,7 +9,7 @@ answers to the below given problem statements.
 5. Which age people are most likely to get caught Covid-19?
 
 ## Data Sets
-There are 2 given data sets both contains patient details and 3 cleaned data sets using python extracted from the given sets
+There are 2 given data sets both contains patient details and 3 cleaned data sets containing relevant columns using python extracted from the given sets
 
 ## Video of Complete Analysis using Tableau (click on the image)
 
