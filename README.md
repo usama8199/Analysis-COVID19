@@ -1,4 +1,4 @@
-# Analysis-COVID19-HackathonWinner
+# Analysis-COVID19-Python-Tableau-HackathonWinner
 ## Problem Statament
 Using the Corona Virus Data Sets given , Create an Interactive Dashboard along with the
 answers to the below given problem statements.
@@ -8,6 +8,9 @@ answers to the below given problem statements.
 4. Which symptom becomes the most common of the dead people?
 5. Which age people are most likely to get caught Covid-19?
 
-## Video of Complete Analysis (click on the image)
+#Data Sets
+There are 2 given data sets both contains patient details and 3 cleaned data sets using python extracted from the given sets
+
+## Video of Complete Analysis using Tableau (click on the image)
 
 [<img src="https://img.youtube.com/vi/Otd1tNKHWDI/maxresdefault.jpg" width="100%">](https://youtu.be/Otd1tNKHWDI)
