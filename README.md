@@ -8,6 +8,10 @@ answers to the below given problem statements.
 4. Which symptom becomes the most common of the dead people?
 5. Which age people are most likely to get caught Covid-19?
 
+## Overview
+- Cleaned the data using python library pandas
+- Performed EDA using Tableau
+
 ## Data Sets
 There are 2 given data sets both contains patient details and 3 cleaned data sets containing relevant columns extracted from the given sets using python 
 
