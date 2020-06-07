@@ -20,4 +20,4 @@ There are 2 given data sets both contains patient details and 3 cleaned data set
 
 ## Video of Complete Analysis using Tableau (click on the image)
 
-[<img src="https://img.youtube.com/vi/Otd1tNKHWDI/maxresdefault.jpg" width="100%">](https://youtu.be/Otd1tNKHWDI)
+[<img src="https://img.youtube.com/vi/Otd1tNKHWDI/maxresdefault.jpg" width="60%">](https://youtu.be/Otd1tNKHWDI)
